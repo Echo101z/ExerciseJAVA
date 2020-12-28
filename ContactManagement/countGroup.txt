@@ -1,0 +1,4 @@
+Professional 2
+Relatives 2
+friends 3
+personal 3
